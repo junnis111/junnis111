@@ -3,7 +3,7 @@ Hey there, I'm Junaid 👋
 ## About Me  
 
 - 🔍 Software Quality Assurance Engineer  
-- 📌 Passionate about ensuring high-quality software through rigorous testing and automation  
+- 📌 Passionate about ensuring high-quality software through manual testing and automation  
 - 🛠 Constantly learning test automation, CI/CD, and best QA practices  
 
 
