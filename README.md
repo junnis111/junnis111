@@ -1,9 +1,10 @@
 Hey there, I'm Junaid 👋
 
-## About Me
+## About Me  
 
-- 💻 Software Engineer | Frontend Developer  
-- 🌱 Constantly learning React.js and JavaScript  
+- 🔍 Software Quality Assurance Engineer  
+- 📌 Passionate about ensuring high-quality software through rigorous testing and automation  
+- 🛠 Constantly learning test automation, CI/CD, and best QA practices  
 
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/junaid-khan-347098266/).
